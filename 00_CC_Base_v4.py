@@ -1,5 +1,5 @@
 """
-base component for Chisomo's Caesar Cipher
+base component for Caesar Cipher
 V0 - skeleton setup
 v1 - yes and no checker
 v2 - v1 + instructions
